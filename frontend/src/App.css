@@ -214,6 +214,7 @@ button:active {
     .composer {
         padding: 20px 22px;
         gap: 10px;
+        margin-bottom: 70px;
     }
 
     .bubble {
